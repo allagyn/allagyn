@@ -1,7 +1,7 @@
 - 👋 Eu sou o André
 - 👀 Estou aprendo diversas tecnolgoias Full Stack
 - 🌱 Atualmente estou aprendendo front-end e back-end...
-- 💞️ Por enquanto ainda não consigo coloborar muito, mas em breve espero que sim.
+- 💞️ Compartilhar conhecimento, é o mesmo que disseminar desenvolvimento.
 - 📫 allagyn@gmail.com
 
 <!---
