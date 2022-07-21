@@ -1,3 +1,7 @@
+### Olá! Eu sou o André 😊
+
+## ♟ Sobre mim:
+
 - 👋 Eu sou o André
 - 👀 Estou aprendo diversas tecnolgoias Full Stack
 - 🌱 Atualmente estou aprendendo front-end e back-end...
