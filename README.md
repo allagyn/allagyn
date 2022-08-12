@@ -3,8 +3,7 @@
 ## ♟ Sobre mim:
 
 - 👋 Eu sou o André
-- 👀 Estou aprendo diversas tecnolgoias Full Stack
-- 🌱 Atualmente estou aprendendo front-end e back-end...
+- 👀 Full Strack Devoloper Jr
 - 💞️ Compartilhar conhecimento, é o mesmo que disseminar desenvolvimento.
 - 📫 allagyn@gmail.com
 
